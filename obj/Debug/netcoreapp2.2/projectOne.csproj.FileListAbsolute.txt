@@ -1,0 +1,14 @@
+C:\Users\galih\dotnetProject\projectOne\bin\Debug\netcoreapp2.2\projectOne.deps.json
+C:\Users\galih\dotnetProject\projectOne\bin\Debug\netcoreapp2.2\projectOne.runtimeconfig.json
+C:\Users\galih\dotnetProject\projectOne\bin\Debug\netcoreapp2.2\projectOne.runtimeconfig.dev.json
+C:\Users\galih\dotnetProject\projectOne\bin\Debug\netcoreapp2.2\projectOne.dll
+C:\Users\galih\dotnetProject\projectOne\bin\Debug\netcoreapp2.2\projectOne.pdb
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.csprojAssemblyReference.cache
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.csproj.CoreCompileInputs.cache
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.RazorAssemblyInfo.cache
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.RazorAssemblyInfo.cs
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.AssemblyInfoInputs.cache
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.AssemblyInfo.cs
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.RazorTargetAssemblyInfo.cache
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.dll
+C:\Users\galih\dotnetProject\projectOne\obj\Debug\netcoreapp2.2\projectOne.pdb
