@@ -71,5 +71,30 @@ namespace projectOne.Controllers
         //         // return dataSource;
         //     }
         // }
+        // localhost:{port}/api/book/1
+        [HttpPut("{id}")]
+        public ActionResult<IEnumerable<Book>> Put([FromRoute] int id, [FromBody]Book param)
+        {
+            var dataSource = new List<Book> {
+             new Book {
+                 Id = 1,
+                 Title = "Harry Potter",
+                 Date = DateTime.Now
+             },
+             new Book {
+                 Id = 2,
+                 Title = "Lion King",
+                 Date = DateTime.Now
+             }
+            };
+            var selectedBook = dataSource.SingleOrDefault(item => item.Id == id);
+             if (selectedBook==null)
+             {
+                 return null;
+             }
+             selectedBook.Title = param.Title;
+             selectedBook.Date = param.Date;
+             return dataSource;
+        }
     }
 }
